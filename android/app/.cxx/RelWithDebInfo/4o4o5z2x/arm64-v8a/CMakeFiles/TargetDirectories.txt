@@ -1,0 +1,2 @@
+/Users/office-mac-2023/Desktop/flutter-projects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/4o4o5z2x/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/office-mac-2023/Desktop/flutter-projects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/4o4o5z2x/arm64-v8a/CMakeFiles/rebuild_cache.dir

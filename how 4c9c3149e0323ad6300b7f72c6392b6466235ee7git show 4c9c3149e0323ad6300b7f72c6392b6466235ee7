@@ -1,0 +1,71 @@
+[33mcommit c77618a2adca38420c270f873553d8c7b7b94cc6[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 0b7756f0 607e2c24
+Author: Naman Khanaa <naman.khanaa@fiftyfivetech.io>
+Date:   Thu Nov 13 15:22:52 2025 +0530
+
+    On feat/digifit_games: udpated_blink_issue_code
+
+[33mcommit d95c611e42d78ce3122b6cf0a22385724e175af0[m
+Merge: a4bed8be 82500ba5
+Author: Naman Khanaa <naman.khanaa@fiftyfivetech.io>
+Date:   Fri Sep 5 13:00:13 2025 +0530
+
+    Merge branch 'fix/kusel_ui_fixes' into digifit_brain_teasers_game
+    
+    # Conflicts:
+    #       android/app/.cxx/RelWithDebInfo/4o4o5z2x/arm64-v8a/.cmake/api/v1/reply/index-2025-08-28T11-01-48-0096.json
+    #       android/app/.cxx/RelWithDebInfo/4o4o5z2x/armeabi-v7a/.cmake/api/v1/reply/index-2025-08-28T11-01-48-0676.json
+    #       android/app/.cxx/RelWithDebInfo/4o4o5z2x/x86/.cmake/api/v1/reply/index-2025-08-28T11-01-49-0069.json
+    #       android/app/.cxx/RelWithDebInfo/4o4o5z2x/x86_64/.cmake/api/v1/reply/index-2025-08-28T11-01-49-0394.json
+    #       lib/l10n/app_de.arb
+    #       lib/l10n/app_en.arb
+    #       lib/l10n/app_localizations.dart
+    #       lib/l10n/app_localizations_de.dart
+    #       lib/l10n/app_localizations_en.dart
+
+[33mcommit 266a834d8e99af8e0330809d71c7af1d5f0d589f[m
+Author: Naman Khanaa <naman.khanaa@fiftyfivetech.io>
+Date:   Tue Sep 2 13:37:45 2025 +0530
+
+    update: Update the fvm version to 3.32.1 from 3.35.0.
+
+[33mcommit 8b3acc1b05e44c855695b3e793644ab8c136856e[m
+Author: Naman Khanaa <naman.khanaa@fiftyfivetech.io>
+Date:   Fri Aug 29 16:11:23 2025 +0530
+
+    update: Update the minSdkVersion to 23.
+
+[33mcommit 4c9c3149e0323ad6300b7f72c6392b6466235ee7[m[33m ([m[1;31morigin/update/flutter_version[m[33m, [m[1;32mupdate/flutter_version[m[33m)[m
+Author: Naman55 <naman.khanna@fiftyfivetech.io>
+Date:   Thu Aug 28 18:40:08 2025 +0530
+
+    update flutter version to 3.35.0 and make necessary changes in gradle
+
+[33mcommit ecb0f024803bcbbcf220945b4f64ba5e7aa3c746[m
+Merge: 41d859c3 3e738ef1
+Author: Shubham Singh <singh.shubham@fiftyfivetech.io>
+Date:   Mon Jul 21 20:05:37 2025 +0530
+
+    Merge branch 'feat/net_connetivity' of https://github.com/KODI-Kommunen-Digital/KODI.kusel_app into feat/net_connetivity
+
+[33mcommit 1623a99ec0e44d7db73814d027e21163a33e58ee[m
+Merge: 8b838b52 b19942e8
+Author: NamanFiftyFive <109508877+NamanFiftyFive@users.noreply.github.com>
+Date:   Fri Jul 18 20:19:24 2025 +0530
+
+    Merge pull request #70 from KODI-Kommunen-Digital/bug/bug_updated_fixes
+    
+    Digifit Improvements/ Bug_Fixes
+
+[33mcommit 74e1e611a7b2106670710a099a9ff6804c245483[m
+Merge: 61ba7550 3e738ef1
+Author: Naman Khanaa <naman.khanaa@fiftyfivetech.io>
+Date:   Fri Jul 18 20:02:55 2025 +0530
+
+    Merge branch 'feat/net_connetivity' into bug/bug_updated_fixes
+
+[33mcommit 3e738ef19181df847ec82a1e40dc1d51ad0e665f[m
+Author: Naman55 <naman.khanna@fiftyfivetech.io>
+Date:   Fri Jul 18 19:57:08 2025 +0530
+
+    update package name to de.landkreiskusel.app

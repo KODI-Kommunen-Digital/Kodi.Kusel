@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569646846016",
+    "project_id": "kusel-app",
+    "storage_bucket": "kusel-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569646846016:android:a367f0774ddf552de1cfa5",
+        "android_client_info": {
+          "package_name": "de.landkreiskusel.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuRVRgfySti8XrscyVo5andQ3tHQTK2BU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

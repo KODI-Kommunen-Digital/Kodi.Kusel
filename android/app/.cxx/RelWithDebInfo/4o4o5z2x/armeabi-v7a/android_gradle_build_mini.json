@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/office-mac-2023/fvm/versions/3.29.1/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/office-mac-2023/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/office-mac-2023/Desktop/flutter-projects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/4o4o5z2x/armeabi-v7a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/office-mac-2023/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/office-mac-2023/Desktop/flutter-projects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/4o4o5z2x/armeabi-v7a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}
