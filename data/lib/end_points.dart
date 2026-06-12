@@ -1,6 +1,8 @@
-const baseUrlProd = "https://dev.boundless-innovation.com/api/v1";
-const imageDownloadingEndpoint = "https://kusel1heidi.obs.eu-de.otc.t-systems.com/";
-const baseUrlStage = "";
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
+String get baseUrlProd => dotenv.env['BASE_URL_PROD'] ?? '';
+String get imageDownloadingEndpoint => dotenv.env['IMAGE_DOWNLOADING_ENDPOINT'] ?? '';
+String get baseUrlStage => dotenv.env['BASE_URL_STAGE'] ?? '';
 const sigInEndPoint = "/users/login";
 const exploreEndpoint = "/categories";
 const signUpEndPoint = "/users/register";

@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:connectivity_plus/connectivity_plus.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:core/preference_manager/shared_pref_helper.dart';
 import 'package:domain/model/request_model/digifit/digifit_update_exercise_request_model.dart';
 import 'package:domain/model/response_model/digifit/digifit_cache_data_response_model.dart';
@@ -29,6 +30,8 @@ final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
+
+  await dotenv.load(fileName: '.envKusel');
 
   await Hive.initFlutter();
 

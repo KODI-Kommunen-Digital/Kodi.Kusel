@@ -48,3 +48,25 @@ app.*.map.json
 
 # FVM Version Cache
 .fvm/
+
+# Sensitive / Secret files
+# Android signing
+android/key.properties
+*.jks
+*.keystore
+
+# Firebase / Google Services
+google-services.json
+GoogleService-Info.plist
+lib/firebase_option/firebase_options.dart
+
+# Local environment & secrets
+.envKusel
+.env
+.env.*
+*.env
+*.secret
+secrets.dart
+secrets.json
+local.properties
+android/local.properties
