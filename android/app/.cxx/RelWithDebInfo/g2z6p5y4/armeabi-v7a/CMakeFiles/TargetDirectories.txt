@@ -1,0 +1,2 @@
+C:/Users/Fiftyfive/StudioProjects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/g2z6p5y4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Fiftyfive/StudioProjects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/g2z6p5y4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

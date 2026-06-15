@@ -1,0 +1,2 @@
+D:/FlutterProjects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/1x3cz4i6/x86/CMakeFiles/edit_cache.dir
+D:/FlutterProjects/KODI.kusel_app/android/app/.cxx/RelWithDebInfo/1x3cz4i6/x86/CMakeFiles/rebuild_cache.dir
